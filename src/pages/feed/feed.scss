@@ -1,0 +1,9 @@
+page-feed {
+    ion-label.label.label-md > ion-avatar + h2 {
+        color: green;
+    }
+    
+    ion-label.label.label-md > ion-avatar + h2 + p {
+        color: orange;
+    }
+}
